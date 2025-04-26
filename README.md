@@ -1,5 +1,5 @@
 
-#SMTP user enumeration tool.
+# SMTP user enumeration tool.
 
 Enumerates the SMTP service and finds the usernames that exists on the system.
 
