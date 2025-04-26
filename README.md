@@ -1,3 +1,8 @@
+
+#SMTP user enumeration tool.
+
+Enumerates the SMTP service and finds the usernames that exists on the system.
+
 pip install pwn
 
 ```shell
@@ -32,3 +37,5 @@ example for HTB box:
 [+] Found 1 valid users:
     - rxxn
 ```
+
+
